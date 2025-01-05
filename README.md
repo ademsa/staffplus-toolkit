@@ -1,6 +1,9 @@
 # [Staff+ Toolkit](https://ademsabic.com/notes/staffplus-toolkit/)
 
-A collection of essential tools and resources for driving change across the engineering organisation
+A collection of essential tools and resources for Staff+ to drive change across the engineering organisation.
+
+- [Introduction](https://ademsabic.com/notes/staffplus-toolkit/)
+- [Request for Comments](https://ademsabic.com/notes/request-for-comments/)
 
 ## Templates
 
