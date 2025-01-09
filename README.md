@@ -3,12 +3,14 @@
 A collection of essential tools and resources for Staff+ to drive change across the engineering organisation.
 
 - [Introduction](https://ademsabic.com/notes/staffplus-toolkit/)
-- [Request for Comments](https://ademsabic.com/notes/request-for-comments/)
+- [Requests for Comments](https://ademsabic.com/notes/request-for-comments/)
+- [Architecture Decision Records](https://ademsabic.com/notes/architecture-decision-record/)
 
 ## Templates
 
 - [Request for Comments Template](templates/request-for-comments-template)
 - [Architecture Decision Record Template](templates/architecture-decision-record-template)
+
 ## Books
 
 - [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/dp/B08RMSHYGG)
