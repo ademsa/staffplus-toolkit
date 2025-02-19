@@ -4,7 +4,8 @@ A collection of essential tools and resources for Staff+ to drive change across 
 
 - [Introduction](https://ademsabic.com/notes/staffplus-toolkit/)
 - [Requests for Comments](https://ademsabic.com/notes/request-for-comments/)
-- [Architecture Decision Records](https://ademsabic.com/notes/architecture-decision-record/)
+- [Architecture Decision Records](https://ademsabic.com/notes/architecture-decision-record/
+- [Technology Radar](https://ademsabic.com/notes/technology-radar/)
 
 ## Templates
 
